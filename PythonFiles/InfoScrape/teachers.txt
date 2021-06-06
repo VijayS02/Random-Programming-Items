@@ -1,0 +1,141 @@
+Ms.ABELL Karen,KNA,Directed Studies<br>English<br>Individual Needs<br>12DC1<br>COVRI<br>12EN2<br>Tutor
+Ms.ADAMS Lou,LA,Drama<br>COVRI<br>Drama LS<br>Theatre Arts (SL)<br>Theatre Arts (HL)<br>Extended Essay
+Mr.ARMSTRONG Josh,J1A,English<br>English Language<br>13CM3<br>COVRI<br>BTEC Media Diploma <br>English Literature (SL)<br>BTEC Media Subsidiary Diploma <br>English Language A: Literature (SL)<br>13CM2<br>Extended Essay<br>Tutor
+Mr.ARNOLD Phillip,PA,Chemistry<br>Science<br>Chemistry (HL)<br>Tutor
+Mr.ATACK Steve,SA,Mathematics<br>10MB2<br>Mathematics (SL)<br>Extended Essay<br>Tutor
+Ms.ATKINSON Sally,SVA,Science<br>Chemistry (SL)<br>Tutor
+Mr.BABE Lawrence,LBB,Physical Education
+Ms.BAHRUNANI Vicky,VB,Economics<br>COVRI<br>BTEC Business Diploma <br>Economics (HL)<br>Business Studies<br>BTEC Business Extended Diploma
+Mr.BAKER Ian,IPB,Drama<br>Theatre Arts (SL)<br>Theatre Arts (HL)<br>Liberal and Personal Studies<br>Extended Essay<br>Tutor
+Ms.BARTON Amanda,ACB,Mathematics<br>Mathematics (SL)<br>Liberal and Personal Studies
+Mr.BEARD Dean,DB,IB Core<br>Mathematics (HL)<br>Maths <br>13MA2<br>Mathematics (SL)<br>13TP7<br>Extended Essay
+Ms.BEER Carole,CLB,IB Core<br>COVRI<br>Geography<br>13TP7<br>Extended Essay<br>Tutor
+Mrs.BHAGCHANDANI Lianna,LSB,BTEC Business Subsidiary Diploma <br>COVRI<br>BTEC Business Diploma <br>Liberal and Personal Studies<br>Business and Management (HL)<br>Economics<br>Philosophy &amp; Religious Studies<br>BTEC Business Extended Diploma<br>Tutor
+Mr.BLACKSHAW Mark,MJB,Physical Education
+Ms.BLOCK Julia,JB,Spanish<br>German<br>Spanish Language B (SL)<br>Spanish Ab Initio (SL)<br>Extended Essay<br>Tutor
+Mr.BUSBRIDGE Hugo,HEB,Design Technology<br>Technology:Electronic Products<br>DT - CAD/CAM (HL)<br>DT - CAD/CAM (SL)<br>Extended Essay<br>Tutor
+Ms.CAIN Cheryl,C1C,Individual Needs<br>Directed Studies<br>English LS<br>Liberal and Personal Studies<br>Extended Essay<br>Tutor
+Ms.CARLILE Alexandra,ALC,Music<br>Music (SL)<br>Music (HL)<br>Tutor
+Mr.CARR Sam,SYC,Art<br>COVRI<br>BTEC Art and Design Diploma<br>BTEC Art and Design Extended Diploma<br>Visual Arts (HL)<br>BTEC Art and Design Subsidiary Diploma<br>13AT2<br>13AT3<br>Tutor
+Mr.CARRELL Tim,T1C,Information Technology<br>Digital Applications<br>COVRI<br>Mathematics<br>Extended Essay<br>Tutor
+Mr.CHAPPELL Jack,JYC,Geography<br>History<br>Philosophy &amp; Religious Studies<br>Liberal and Personal Studies
+Ms.CHEUNG Serina,SPC,13DC1<br>Chinese LS<br>Chinese<br>Liberal and Personal Studies<br>Tutor
+Ms C.CHU Chia,CYC,Mathematics<br>10MC2<br>Mathematical Studies<br>Tutor
+Ms.CIEPIELA Agnieszka,AKC,ESOL Support<br>English<br>English Language and Literature (SL)<br>English Language and Literature (HL)<br>Tutor
+Ms.CLARK Lucy,LEC,Design Technology<br>Technology:Resistant Materials<br>DT - CAD/CAM (HL)<br>BTEC Art and Design Diploma<br>BTEC Art and Design Extended Diploma<br>Science<br>13AT3<br>Extended Essay<br>Tutor
+Mr.CLARK Tom,TAC,English<br>COVRI<br>13EN1<br>English Literature (HL)<br>English Language<br>IB Core<br>13TP7<br>English Language A: Literature (SL)<br>Tutor
+Mr.CONESA Salva,SQL,Spanish<br>Spanish Language B (HL)<br>Spanish Language B (SL)<br>Tutor
+Ms.CONWAY Lisa,LC,English<br>English Language<br>COVRI<br>English Language and Literature (HL)<br>Tutor
+Mr.CORRIGALL Jim,JXC,Physical Education<br>Sports Studies<br>Sport, Exercise and Health Science<br>Extended Essay<br>Tutor
+Ms.COULL Gillian,GC,English<br>Liberal and Personal Studies<br>ESOL Support<br>English Literature (SL)<br>English Literature (HL)<br>Extended Essay
+Ms.COULTON Sarah,SLW,Geography<br>Global Perspectives<br>Env System and Society (SL)<br>13TP7<br>Geography (HL)<br>Liberal and Personal Studies<br>Extended Essay
+Mr.COUNSELL Sam,SWC,English<br>English Language<br>COVRI<br>English Language and Literature (SL)<br>Tutor
+Mrs.COUTURIER Clarisse,CAC,French<br>Spanish<br>French Language B (SL)<br>French Language B (HL)<br>Tutor
+Mr.CROCE Gianluca,G1C,Physics<br>Physics (SL)<br>Science<br>Physics (HL)<br>Extended Essay<br>Tutor
+Mr.CROFT Fred,RC,Art<br>Art LS<br>Visual Arts (HL)<br>Extended Essay<br>Tutor
+Mr.DEAKIN Andrew,AJD,Art<br>BTEC Art and Design Diploma<br>BTEC Art and Design Extended Diploma<br>13TP7<br>13AT2<br>13AT3
+Mr.DIXON Alex,ARD,Mathematics<br>10MB2<br>Mathematical Studies<br>Extended Essay
+Ms.DOUGLAS Megan,MLD,English<br>COVRI<br>13EN1<br>Spanish<br>English Language and Literature (SL)<br>Tutor
+Mr.DUDDY Clive,CD,COVRI<br>IB Core<br>Philosophy &amp; Religious Studies<br>Philosophy (HL)<br>Philosophy (SL)<br>13TP7<br>Extended Essay
+Mr.DUNWELL John,JXD,Chemistry<br>Science<br>Chemistry (HL)<br>Tutor
+Mr.EDWARDS John,JE,History<br>History (HL)<br>History (SL)<br>Extended Essay<br>Tutor
+Ms.EDWARDS Kay,KE,Business Studies<br>BTEC Business Subsidiary Diploma <br>COVRI<br>Business and Management (HL)<br>BTEC Business Diploma <br>Business and Management (SL)<br>Extended Essay<br>Tutor
+Mr.FERRIDAY Matt,MJF,Science<br>Sport, Exercise and Health Science<br>Btec Science<br>COVRI
+Mr.FINDLAY David,DXF,Philosophy &amp; Religious Studies<br>COVRI<br>Liberal and Personal Studies<br>Philosophy (HL)<br>Philosophy (SL)<br>Extended Essay<br>Tutor
+Mr.FISHER James,JAF,Geography<br>Information Technology<br>Digital Applications<br>Computer Science<br>COVRI<br>Liberal and Personal Studies<br>Extended Essay
+Ms.FOK Anna,AF,Science<br>Biology<br>COVRI<br>Biology (HL)<br>Tutor
+Ms.FORD Jane,JFF,Technology:Graphics Products<br>Technology: Graphics Products<br>Design Technology<br>DT - Human Factors (HL)<br>DT - Human Factors (SL)<br>Extended Essay<br>Tutor
+Ms.GADD Nina,NDG,Art<br>BTEC Art and Design Diploma<br>BTEC Art and Design Extended Diploma<br>BTEC Art and Design Subsidiary Diploma<br>Visual Arts (SL)<br>Visual Arts (HL)<br>Tutor
+Mr.GLOVER Lewis,LDG,Information Technology<br>Computer Science<br>ITGS (HL)<br>13MA2<br>Computer Science (HL)<br>Mathematics<br>Maths <br>ITGS (SL)<br>Extended Essay
+Mr.GOFF Ian,IJG,Economics (HL)<br>BTEC Business Diploma <br>BTEC Business Subsidiary Diploma <br>Extended Essay<br>Tutor
+Mr.GOULDING Richard,RJG,History<br>COVRI<br>History (HL)<br>IB Core<br>13TP7<br>Tutor
+Mr.GRADY David,DG,Science<br>Biology<br>Biology (SL)
+Ms.GRADY Lee,LG,English Language<br>English<br>English Literature (SL)<br>English Language A: Literature (SL)<br>Tutor
+Ms.GRANTHAM Rachel,RSG,Physical Education<br>BTEC Sports Diploma<br>Physical Education LS<br>13PE8 LS<br>13ST2<br>13ST3<br>Tutor
+Mr.GREENFIELD Ian,IG,Mathematical Studies<br>Mathematics (HL)<br>Mathematics<br>Mathematics (SL)<br>13TP7<br>Extended Essay<br>Tutor
+Ms.GREGORY Jasmine,JAG,Science<br>English LS<br>Social Skills LS<br>Learning Support LS<br>Physical Education LS<br>13PE8 LS<br>Humanities LS<br>13SS8 LS<br>Life Skills LS<br>Tutor<br>08LK8 LS<br>PROTD
+Ms.HARDER Patsy,PMH,English<br>English Language and Literature (SL)<br>English Language and Literature (HL)<br>Tutor
+Mr.HATTAM Christopher,CJH,Technology:Resistant Materials<br>Design Technology<br>Design Technology LS<br>ASDAN Bronze LS<br>Physical Education<br>Tutor
+Ms.HEATH Ray,RH,Psychology<br>Psychology (SL)<br>Psychology (HL)<br>COVRI<br>Liberal and Personal Studies<br>13TP7<br>Extended Essay<br>Tutor
+Ms.HITCHINGS Ellie,EH,Drama<br>Liberal and Personal Studies<br>English Language<br>English Language and Literature (SL)<br>English<br>Extended Essay
+Mr.HOTWANI Krishin,KAH,Directed Studies<br>Learning Support LS<br>Mathematics<br>Horticulture LS<br>Mathematics LS<br>Tutor
+Ms.HOWELL Kelly,KSH,Physical Education<br>BTEC Sports Diploma<br>13ST3
+Ms.HOWELLS Chris,CXH,Design Technology<br>Information Technology<br>Digital Applications<br>COVRI<br>Liberal and Personal Studies<br>Tutor
+Ms.HU Connie,C1H,Chinese<br>COVRI<br>IB Core<br>Chinese Language B (SL)<br>Chinese Language B (HL)<br>Extended Essay<br>Tutor
+Ms.JONES Sarah,SEJ,English<br>English Language<br>English Language A: Literature (SL)<br>Extended Essay
+Ms J.KAM Joyce,JK,Information Technology<br>Philosophy &amp; Religious Studies<br>ICT LS<br>ASDAN Bronze LS<br>Food &amp; Textiles Technology LS<br>BTEC ICT LS<br>13IB8 LS<br>Social Skills LS<br>Life Skills LS<br>Mathematics LS<br>History<br>Geography<br>Extended Essay<br>Tutor
+Ms.KAVANAGH Shannon,SPK,English<br>English Language<br>English Language and Literature (SL)<br>Tutor
+Mr.KELLY Dave,DJK,Information Technology<br>Computer Science<br>Digital Applications<br>Computer Science (HL)<br>Computer Science (SL)<br>Tutor
+Ms.KNIGHT Xanthe,XK,Physical Education<br>Sport, Exercise and Health Science<br>13SS6<br>Tutor
+Mr.LAFFERTY Iain,IAL,Mathematics<br>Mathematics (SL)<br>Extended Essay<br>Tutor
+Ms C.LAU Cecilia,CCL,Tutor
+Mrs.LE GOFF Katell,KML,French<br>German<br>French Ab Initio (SL)<br>French Language B (SL)<br>Tutor
+Ms.LEATHAM Susan,SL,Design Technology<br>Technology:Food<br>Technology: Food<br>DT - Textiles (HL)<br>Liberal and Personal Studies<br>DT - Human Factors (HL)<br>Extended Essay<br>Tutor
+Mr C.LEE Cliff,SXL,Economics<br>BTEC Business Subsidiary Diploma <br>COVRI<br>Liberal and Personal Studies<br>Business Studies<br>BTEC Business Extended Diploma<br>Economics (SL)<br>BTEC Business Diploma <br>Extended Essay<br>Tutor
+Mr.LETTERS Paul,PL,History<br>History (SL)<br>13TP7<br>Extended Essay<br>Tutor
+Ms D.LI Doris,JXL,Chinese<br>Chinese A (SL)<br>Chinese Language B (SL)<br>Tutor
+Mr.LITHGO Neil,NL,Science<br>Physics<br>Physics (SL)<br>Physics (HL)<br>Extended Essay<br>Tutor
+Ms.LIU Ivy,SYL,Chinese<br>Chinese Language B (HL)<br>Chinese Language B (SL)<br>Extended Essay<br>Tutor
+Ms.LOCKIE Amanda,AXL,Extended Essay
+Mrs.MACKETT Janet,JAM,Design Technology<br>Technology: Textiles<br>Extended Essay<br>Tutor
+Mr.MAK Martin,TM,Extension Chinese<br>Chinese<br>IB Core<br>Chinese Language B (HL)<br>Chinese Language B (SL)<br>Extended Essay<br>Tutor
+Mr.MANNION Conor,CTM,Science<br>Chemistry<br>Chemistry (HL)<br>Tutor
+Mr.MCALPINE Derek,DXM,Extended Essay<br>Tutor
+Mr.MCEVOY Dave,DAM,Physics<br>Science<br>Physics (HL)<br>Tutor
+Mr.MCINTYRE Duncan,DJM,English<br>English Language and Literature (SL)<br>English Language and Literature (HL)<br>12EN2<br>Tutor
+Ms.MCLEOD Jill,JKM,Geography<br>Liberal and Personal Studies<br>13TP7<br>Tutor
+Mr.MILLER Sean,SJM,Drama<br>Theatre Arts (SL)<br>13CM3<br>COVRI<br>BTEC Media Diploma <br>BTEC Media Subsidiary Diploma <br>Theatre Arts (HL)<br>Tutor
+Dr.MILLINGTON Heather,HM,COVRI<br>IB Core<br>Env System and Society (SL)<br>Science<br>Extended Essay<br>Tutor
+Ms.MILLS Pam,PM,Mathematics<br>10MC2<br>Mathematical Studies<br>Tutor
+Mr.MISTRY Amit,ARM,Physics<br>Science<br>Physics (HL)<br>Extended Essay
+Ms.MORAN Jodi,JOM,Media Studies<br>English<br>English Language<br>English Language A: Literature (SL)<br>Tutor
+Mr.MORRISON Andrew,AM,Physics<br>Physics (HL)<br>Science<br>Physics (SL)<br>Extended Essay<br>Tutor
+Ms.MUIR Catherine,CAM,ESOL Support<br>Directed Studies<br>13DC1<br>Learning Support LS<br>07SS1<br>Food &amp; Textiles Technology LS<br>Social Skills LS<br>Liberal and Personal Studies<br>13FB8 LS<br>Mathematics LS<br>13SS8 LS<br>Extended Essay<br>Tutor
+Mrs.MURCHIE Helena,HMM,Music<br>Music (SL)<br>Music LS<br>Music (HL)<br>Extended Essay<br>Tutor
+Ms.NAUGHTON Helen,HRN,German<br>Spanish<br>Spanish Language B (SL)<br>French<br>Spanish Language B (HL)<br>Tutor
+Mr.NIXON Simon,SJN,Music<br>COVRI<br>Music LS<br>Music (SL)<br>Music (HL)<br>Tutor
+Ms.PAHL Kamy,KZY,Psychology<br>Psychology (HL)<br>13TP7<br>Liberal and Personal Studies<br>Psychology (SL)<br>Extended Essay<br>Tutor
+Ms L.PANG Lisa,LP,Biology<br>Env System and Society (SL)<br>Science<br>Tutor
+Mrs.PHILLIPS Frances,FMP,Biology<br>Science<br>Biology (HL)<br>Extended Essay<br>Tutor
+Mr.PHILLIPS Thomas,TPP,Geography<br>Geography (SL)<br>Geography (HL)<br>Extended Essay<br>Tutor
+Ms.PINDER Anna,PAA,Physical Education<br>Sports Studies<br>Physical Education LS<br>13PE8 LS<br>Tutor
+Mr.PLAMPING Peter,PAP,Mathematics<br>Mathematical Studies<br>COVRI<br>10MB2<br>Mathematics (SL)<br>Tutor
+Mr.POULSUM Mark,M1P,COVRI<br>IB Core<br>Philosophy &amp; Religious Studies<br>Geography<br>13TP7<br>Extended Essay<br>Tutor
+Mr.PRITCHARD Michael,MP,Science<br>Biology (HL)<br>Biology (SL)<br>Extended Essay
+Mr.RIDING Charles,CR,Physical Education<br>Sports Studies<br>Tutor
+Mr.RIGBY Steven,SR,Mathematics<br>COVRI<br>Mathematics (SL)<br>Mathematical Studies<br>Extended Essay<br>Tutor
+Mr.RITCHIE Andrew,AGR,English<br>COVRI<br>English Language<br>English Language and Literature (HL)<br>Tutor
+Mr.RYAN Kieran,KAR,Media Studies<br>13CM3<br>COVRI<br>IB Core<br>Film Studies (SL)<br>Film Studies (HL)<br>13CM2<br>Extended Essay<br>Tutor
+Mr.SANDFORD James,JGS,Technology:Resistant Materials<br>Design Technology<br>BTEC Art and Design Diploma<br>BTEC Art and Design Extended Diploma<br>DT - CAD/CAM (HL)<br>Extended Essay<br>Tutor
+Mr.SHIEL Duncan,DS,History<br>History (HL)<br>IB Core<br>13TP7<br>History (SL)<br>Extended Essay<br>Tutor
+Ms.SILVA MATIAS Alice,ACF,German<br>07MT1<br>German Language B (SL)<br>German Language B (HL)
+Ms.SPARROW Katherine,KJH,Art<br>Visual Arts (SL)<br>Visual Arts (HL)<br>BTEC Art and Design Diploma<br>BTEC Art and Design Extended Diploma<br>Liberal and Personal Studies<br>BTEC Art and Design Subsidiary Diploma<br>13AT2<br>13AT3<br>Tutor
+Mr.SPASHETT Matt,MXS,Media Studies<br>13CM3<br>BTEC Media Diploma <br>Film Studies (HL)<br>BTEC Media Subsidiary Diploma <br>13CM2<br>Tutor
+Ms.STREETER Alexandra,A1S,Mathematics<br>Mathematical Studies<br>Extended Essay<br>Tutor
+Ms.STUART Helen,HLS,Extended Essay
+Mr.STYLES Ross,RAS,Philosophy &amp; Religious Studies<br>COVRI<br>Religious Studies<br>IB Core<br>13TP7<br>Philosophy (SL)<br>Philosophy (HL)<br>Extended Essay<br>Tutor
+Mrs.SUTTON Lucy,LJS,Information Technology<br>Digital Applications<br>Computer Science<br>ITGS (HL)<br>Liberal and Personal Studies<br>ITGS (SL)<br>Tutor
+Mrs.THOMSON Kathryn,KMT,Mathematics<br>Maths <br>13MA2<br>Mathematical Studies<br>Tutor
+Mr.THOMSON Simon,SJT,Philosophy &amp; Religious Studies<br>Geography LS<br>History LS<br>Liberal and Personal Studies<br>Geography<br>History<br>IB Core<br>Tutor
+Mr.TRANTER Ashley,AJT,Business Studies<br>COVRI<br>Economics (HL)<br>13TP7<br>Liberal and Personal Studies<br>Extended Essay
+Ms.TRANTER Francoise,FJT,French<br>Spanish<br>French Language B (SL)<br>Tutor
+Mrs.TSUI Alyson,AT,History<br>History (HL)<br>History (SL)<br>Extended Essay<br>Tutor
+Ms.TURAI-KISS Elizabeth,ETK,English<br>English Language<br>English Literature (SL)<br>Tutor
+Mr.TURVER Marcus,MT,English<br>English Language<br>English Literature (HL)<br>Extended Essay<br>Tutor
+Ms.USASZ Caroline,CP,English<br>English Language<br>English Language and Literature (HL)<br>English Language and Literature (SL)<br>Tutor
+Ms.VAZE Suman,SV,Mathematics<br>COVRI<br>Mathematics (SL)<br>Extended Essay<br>Tutor
+Mrs.VLAHOS Emma,ELV,Information Technology<br>Computer Science<br>Digital Applications<br>Tutor
+Ms.WALTON Melanie,MW,Design Technology<br>Technology:Textiles<br>DT - Textiles (HL)<br>DT - Textiles (SL)<br>DT - Food (SL)<br>DT - Food (HL)<br>Extended Essay<br>Tutor
+Ms X.WANG Xixia,XW,Chinese<br>COVRI<br>IB Core<br>Chinese Language B (SL)<br>Chinese Language B (HL)<br>Tutor
+Mr.WARRINER Ryan,RAW,Business Studies<br>BTEC Business Diploma <br>Business and Management (SL)<br>Business and Management (HL)<br>13TP7<br>Economics<br>BTEC Business Extended Diploma<br>BTEC Business Subsidiary Diploma <br>Extended Essay
+Ms.WEST Jo,JLW,Psychology<br>Directed Studies<br>Science<br>Science LS<br>Horticulture LS<br>Learning Support LS<br>Psychology (HL)<br>Extended Essay<br>Tutor
+Mr.WIGHTMAN Christopher,CW,Biology<br>Biology (HL)<br>13TP7<br>Science<br>Extended Essay
+Ms.WILSON Hannah,HJW,Physical Education<br>BTEC Sports Diploma<br>13ST2<br>13ST3<br>Tutor
+Mrs.WONG Anna,ANW,Mathematics<br>10MB2<br>Mathematics (SL)<br>Extended Essay<br>Tutor
+Mr.WRAY Sean,SPW,Economics<br>Economics (HL)<br>Economics (SL)<br>Extended Essay
+Mr.WRIGLEY Quinton,QW,Biology<br>Science<br>Biology (HL)<br>13SS6
+Ms A.YANG Amanda,YAY,Chinese<br>Chinese Language B (SL)<br>Tutor
+Ms J.YANG Joyce,DY,Chinese<br>Chinese A (SL)<br>Chinese A (HL)<br>Tutor
+Ms.YAO Hui,HXY,Extension Chinese<br>Chinese<br>Chinese Language B (SL)<br>Tutor
+Ms.YUAN Semele,SY,Global Perspectives<br>Geography<br>Geography (HL)<br>Env System and Society (SL)<br>Extended Essay<br>Tutor
+Ms.ZHAI Jean,LZ,Chinese<br>Chinese Language B (HL)<br>Extended Essay<br>Tutor

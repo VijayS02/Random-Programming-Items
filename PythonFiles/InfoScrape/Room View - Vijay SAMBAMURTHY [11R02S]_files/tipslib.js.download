@@ -1,0 +1,277 @@
+ 
+
+// style for register pop ups        
+Style[0]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "", "sticky",  // TipPosition, StickyStyle      
+            "2",  "2",  //  TitleFontSize, TextFontSize
+            300, 100,  // Width, Height
+            1, 2, // BorderSize, PadTextArea
+            10, 50, // CoordinateX , CoordinateY
+            -1, 0,  0, //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "simple", "",0,""]  // ShadowType, ShadowColor
+            
+// style for 'marking tips'
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[1]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "rightedge", "sticky",  // TipPosition, StickyStyle      
+            "2",  "2",  //  TitleFontSize, TextFontSize
+            180, 100,  // Width, Height
+            2, 2, // BorderSize, PadTextArea
+            180, -50, // CoordinateX , CoordinateY
+            -1, 0,  0, //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "simple", "",0,""]  // ShadowType, ShadowColor
+
+ // style for 'popup tips'
+Style[2]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "", "",  // TipPosition, StickyStyle      
+            "",  "",  //  TitleFontSize, TextFontSize
+            200, "",  // Width, Height
+            2, 2, // BorderSize, PadTextArea
+            0, 0, // CoordinateX , CoordinateY
+            "", "",  "", //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "", "",0,""]  // ShadowType, ShadowColor
+            
+ // style for 'graph tips'
+Style[3]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "left", "",  // TipPosition, StickyStyle      
+            "",  "",  //  TitleFontSize, TextFontSize
+            200, "",  // Width, Height
+            2, 2, // BorderSize, PadTextArea
+            0, 0, // CoordinateX , CoordinateY
+            "", "",  "", //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "", "",0,""]  // ShadowType, ShadowColor
+
+
+// style for 'right side tips'
+Style[4]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "rightedge", "",  // TipPosition, StickyStyle      
+            "",  "",  //  TitleFontSize, TextFontSize
+            200, "",  // Width, Height
+            2, 2, // BorderSize, PadTextArea
+            0, 0, // CoordinateX , CoordinateY
+            "", "",  "", //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "", "",0,""]  // ShadowType, ShadowColor
+
+// style for 'center wide side tips'
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[5]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "center", "",  // TipPosition, StickyStyle      
+            "",  "",  //  TitleFontSize, TextFontSize
+            400, "",  // Width, Height
+            2, 2, // BorderSize, PadTextArea
+            0, 0, // CoordinateX , CoordinateY
+            "", "",  "", //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "", "",0,""]  // ShadowType, ShadowColor
+
+Style[6]=[  "#FFFFFF", "#000000","#000066","#ffffff",// TitleColor,TextColor,TitleBgColor,TextBgColor
+            "", "",  "", // TitleBgImag, TextBgImag, TitleTextAlign,          
+            "", "",  "", // TextTextAlign, TitleFontFace, TextFontFace         
+            "left", "",  // TipPosition, StickyStyle      
+            "",  "",  //  TitleFontSize, TextFontSize
+            102, "",  // Width, Height
+            1, 1, // BorderSize, PadTextArea
+            0, 0, // CoordinateX , CoordinateY
+            "", "",  "", //  TransitionNumber, TransitionDuration, TransparencyLevel
+            "", "",0,""]  // ShadowType, ShadowColor
+
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[7]=["#ffffff", "#000000", "#000066", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "right", "sticky", 
+            2, 2, 
+            100, 100, 
+            1, 2, 
+            0 , 0, 
+            -1, 0, 0 ,
+            "simple", "",1,""]   // 1 indicates ajax loader
+  
+ // style for Register3 warnings          
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[8]=["#ffffff", "#000000", "#860000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "right", "sticky", 
+            2, 2, 
+            200, 0, 
+            1, 2, 
+            25 , 25, 
+            -1, 0, 0 ,
+            "simple", "",0,""]
+
+ // style for minimenu - static content!          
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[9]=["#ffffff", "#000000", "#860000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "stickleft", "sticky", 
+            2, 2, 
+            100, 0, 
+            1, 2, 
+            1 , 1, 
+            -1, 0, 0 ,
+            "simple", "",2,""]
+
+// style for minimenu - static content!          
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[10]=["#ffffff", "#000000", "#860000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "stickleft", "sticky", 
+            2, 2, 
+            100, 0, 
+            1, 2, 
+            1 , 1, 
+            -1, 0, 0 ,
+            "simple", "",0,""]
+
+// style for ChecksReport - descriptors         
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[11]=["#ffffff", "#000000", "#a60000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "relativetr", "sticky", 
+            3, 3, 
+            400, 0, 
+            1, 2, 
+            0 , -10, // No Offset 
+            -1, 0, 0 ,
+            "simple", "",0,""]
+            
+// style for ChecksReport - comment replicator         
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[12]=["#ffffff", "#000000", "#a60000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "relativebl", "sticky", 
+            3, 3, 
+            400, 0, 
+            1, 2, 
+            0 , 0, // No Offset 
+            -1, 0, 0 ,
+            "simple", "",0,""]
+            
+// style for ChecksReport - target helper         
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[13]=["#ffffff", "#000000", "#a60000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "relativebl", "sticky", 
+            3, 3, 
+            500, 0, 
+            1, 2, 
+            0 , 0, // No Offset 
+            -1, 0, 0 ,
+            "simple", "",1,""]
+            
+// style for new bgiframe assessment        
+//[...]=[TitleColor, TextColor, TitleBgColor, TextBgColor, TitleBgImag, TextBgImag, TitleTextAlign, TextTextAlign, TitleFontFace, TextFontFace, TipPosition, StickyStyle, TitleFontSize, TextFontSize, Width, Height, BorderSize, PadTextArea, CoordinateX , CoordinateY, TransitionNumber, TransitionDuration, TransparencyLevel ,ShadowType, ShadowColor]
+Style[14]=["#ffffff", "#000000", "#a60000", "#ffffff", 
+            "", "", "", 
+            "", "", "", 
+            "relativebl", "sticky", 
+            3, 3, 
+            250, 0, 
+            1, 2, 
+            0 , 0, // No Offset 
+            -1, 0, 0 ,
+            "simple", "",0,""]
+            
+
+
+            
+function poptip(s,title,message)
+{
+    Text[0]=[title,message];
+    stm(Text[0],Style[s]);
+}
+            
+function poptiprel(s,title,message,rel)
+{
+    Text[0]=[title,message];
+    Style[s][26]=rel;
+    stm(Text[0],Style[s]);
+    MoveTip(false); 
+}
+function poptiprelajax(s,title,script,rel)
+{
+    Text[0]=[title,''];
+    Style[s][26]=rel;
+    stm(Text[0],Style[s]);
+    fillAjax('ajaxTip',script);
+    MoveTip(false); 
+}
+function popcachetip(s,title,cache,menu)
+{                                          
+    Text[0]=[title,menu];
+    stm(Text[0],Style[s]);                  
+    jQuery('.minimenu').css('display','none');
+    jQuery('#'+cache).css('display','block');
+}
+
+function poppic(name,pic)
+{
+    Text[0]=[name,'<img width=100 src='+pic+' />'];
+    stm(Text[0],Style[6]);
+} 
+
+function ajaxpopupstyle(name,script,style){  
+    Text[0]=[name,''];
+    stm(Text[0],Style[style]);
+    fillAjax('ajaxTip',script); 
+    
+}
+
+function ajaxpopup(name,script)
+{
+    ajaxpopupstyle(name,script,6); 
+}
+       
+function graphit(full,crs,cls,root){
+    script =  root+'/kgv-additions/Libs/embedgraph.php?script=catclassgraph&title='+full+' Cat Frequency Graph&course='+crs+'&class='+cls;
+    fillAjax('ajaxTip',script); 
+}
+function graphitsingle(full,sk,root){
+    script =  root+'/kgv-additions/Libs/embedgraph.php?script=catsinglegraph&title='+full+' Cat Score&sid='+sk;
+    fillAjax('ajaxTip',script); 
+}
+function graphitprofilesummary(full,crs,cls,root){
+    script =  root+'/kgv-additions/Libs/embedgraph.php?script=catclassprofilesummary&title='+full+' Cat Profile Summary Graph&course='+crs+'&class='+cls;
+    fillAjax('ajaxTip',script);
+}
+
+function fillAjax(thediv,thephprequest){
+        $(thediv).innerHTML='';
+        new Ajax.Request(thephprequest, 
+                            {   method: 'get',   
+                                onSuccess: function(transport) {     
+                                                var td = document.getElementById(thediv);
+                                                td.innerHTML=transport.responseText;   
+                                                jQuery('#dialog').jqmAddTrigger('.jqModal'); 
+                                                jQuery('#dialog').jqmAddClose('#jqHide');
+                                                jQuery('#dialog').jqm({modal:true, ajax:'@href', ajaxText: '<img src=\"../!LIONeLpix/ajaxloader.gif"\" alt=\"Loading.." />'});
+                                } });
+}
+
+function fillAjaxImg(thediv,type,params){
+        var td = document.getElementById(thediv);
+        td.innerHTML="<img src='../../kgv-additions/!LIONeLpix/ajaxloader.gif' />";
+        new Ajax.Request('../../kgv-additions/Libs/image.php?location='+type+'&params='+escape(params), 
+                            {   method: 'get',   
+                                onSuccess: function(transport) {     
+                                                var td = document.getElementById(thediv);
+                                                td.innerHTML=transport.responseText;   
+                                } });
+}

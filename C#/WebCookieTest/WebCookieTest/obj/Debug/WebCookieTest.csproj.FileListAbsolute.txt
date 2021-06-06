@@ -1,0 +1,13 @@
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebCookieTest.exe.config
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebCookieTest.exe
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebCookieTest.pdb
+D:\C#\WebCookieTest\WebCookieTest\obj\Debug\WebCookieTest.csprojResolveAssemblyReference.cache
+D:\C#\WebCookieTest\WebCookieTest\obj\Debug\WebCookieTest.Form1.resources
+D:\C#\WebCookieTest\WebCookieTest\obj\Debug\WebCookieTest.Properties.Resources.resources
+D:\C#\WebCookieTest\WebCookieTest\obj\Debug\WebCookieTest.csproj.GenerateResource.Cache
+D:\C#\WebCookieTest\WebCookieTest\obj\Debug\WebCookieTest.exe
+D:\C#\WebCookieTest\WebCookieTest\obj\Debug\WebCookieTest.pdb
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebDriver.dll
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebDriver.Support.dll
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebDriver.xml
+D:\C#\WebCookieTest\WebCookieTest\bin\Debug\WebDriver.Support.xml

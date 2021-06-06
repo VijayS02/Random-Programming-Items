@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Diary: Vijay SAMBAMURTHY [12R02S]
+METHOD:PUBLISH
+PRODID:-//John Papaioannou/NONSGML Bennu 0.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:803420181010520181009123600@kgv.hk
+SUMMARY:12MA6
+DESCRIPTION:<p><span style="font-size:16px">Please complete the work list b
+	elow on Logarithms ensuring all questions have been CLEARLY identified and 
+	MARKED\, as discussed in class today. If you need any help please come and 
+	see me Monday/Tuesday outside of lessons.  </span></p>\n\n<ul>\n	<li><span 
+	style="font-size:16.0pt"><span style="font-family:"Arial Narrow"\,sans-seri
+	f">Logarithms Intro\; <strong>Ex4A Q1dhl\, Q2bc\, Q3gi\, Q5 & Q6cgk and </s
+	trong></span></span><strong><span style="font-size:16.0pt"><span style="fon
+	t-family:"Arial Narrow"\,sans-serif">Ex4B Q1bf\, Q2be\, Q3bfjnr + dhlpt\, Q
+	4ab\, Q5bcd & Q6bfjn + dhlp (</span></span></strong><strong><span style="fo
+	nt-size:16.0pt"><span style="font-family:Wingdings">ü</span></span></strong
+	><strong><span style="font-size:16.0pt"><span style="font-family:"Arial Nar
+	row"\,sans-serif">.)</span></span></strong></li>\n	<li><span style="font-si
+	ze:16.0pt"><span style="font-family:"Arial Narrow"\,sans-serif">Natural Log
+	s and the Laws of Logarithms\; <strong>Ex4D.1 Q4bde\, Q5ci & Q6eg and Ex4C.
+	1 Q1→7(odd letts) and Ex4C.2 Q1\, 2 & 4(odd letts) and Ex4D.2 Q1→5(odd lett
+	s)  (</strong></span></span><strong><span style="font-size:16.0pt"><span st
+	yle="font-family:Wingdings">ü</span></span></strong><strong><span style="fo
+	nt-size:16.0pt"><span style="font-family:"Arial Narrow"\,sans-serif">.)</sp
+	an></span></strong></li>\n	<li><span style="font-size:16.0pt"><span style="
+	font-family:"Arial Narrow"\,sans-serif">Solving Exponential Equations\; <st
+	rong>Ex4E Q1\,2(odd letts)\, Q4\, </strong></span></span><strong><span styl
+	e="font-size:16.0pt"><span style="font-family:"Arial Narrow"\,sans-serif">Q
+	5→7(odd letts) and Ex4F Q1→3(b\,c only)  & Q4→7 (</span></span></strong><st
+	rong><span style="font-size:16.0pt"><span style="font-family:Wingdings">ü</
+	span></span></strong><strong><span style="font-size:16.0pt"><span style="fo
+	nt-family:"Arial Narrow"\,sans-serif">.) </span></span></strong></li>\n</ul
+	>\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20181009T043600Z
+DTSTAMP:20181009T043600Z
+DTSTART:20181010T062000Z
+DTEND:20181010T072000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:803420181011320181009123600@kgv.hk
+SUMMARY:12CN5
+DESCRIPTION:<p>作文：</p>\n\n<p>作为父母，你不同意你的孩子出国读寄宿学校，写一封给孩子，解释你的理由。手写在作文本上。</p
+	>\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20181009T043600Z
+DTSTAMP:20181009T043600Z
+DTSTART:20181011T031500Z
+DTEND:20181011T041500Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,8 @@
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\bin\Debug\TeacherCategorizer.exe.config
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\bin\Debug\TeacherCategorizer.exe
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\bin\Debug\TeacherCategorizer.pdb
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\bin\Debug\WebDriver.dll
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\bin\Debug\WebDriver.xml
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\obj\Debug\TeacherCategorizer.csprojResolveAssemblyReference.cache
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\obj\Debug\TeacherCategorizer.exe
+D:\C#\TeacherCategorizer\TeacherCategorizer\TeacherCategorizer\obj\Debug\TeacherCategorizer.pdb

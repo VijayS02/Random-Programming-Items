@@ -1,0 +1,114 @@
+ jQuery.noConflict();
+ jQuery().ready(function() {
+ 
+       rehelptip();
+       //mainmenu(); 
+       jQuery(".menui").each(function(i){
+            theid = '#'+this.id;
+            //alert(theid);
+            jQuery(theid).mouseover(function() {
+                                        theid = '#'+this.id;
+                                        thesubid = '#sub'+this.id;
+                                        jQuery(thesubid).html("<div style='width:12em;text-align:center;width:100%;background-color:white'><img src='/kgv-additions/!LIONeLpix/ajaxloader.gif' /></div>");
+                                        //alert(theid);
+                                        jQuery(theid).unbind('mouseover');
+                                        jQuery.getScript("/theme/LIONeL2/MenuAjax.php?SubMenu="+this.id);                            
+                                        jQuery(theid).trigger('mousemove');
+                                        
+            });
+       })
+        
+ })
+ 
+
+function rehelptip(){
+    jQuery('.tip').cluetip({positionBy: 'mouse', gridx:10, gridy:10, splitTitle:'|', leftOffset:30, width:100, cluetipClass: 'jtip' }) 
+} 
+
+function mainmenu(){
+    jQuery(" #nav ul ").css({display: "none"}); // Opera Fix
+    jQuery(" #nav li").hover(function(){
+            jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).fadeIn(200);
+            },function(){
+            jQuery(this).find('ul:first').css({visibility: "hidden"}).fadeOut(200);
+            });
+}
+
+function startmenu(zone){
+    jQuery(" #nav ul ").css({display: "none"}); // Opera Fix
+    jQuery(" #nav li").hover(function(){
+            jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).fadeIn(200);
+            },function(){
+            jQuery(this).find('ul:first').css({visibility: "hidden"}).fadeOut(200);
+            });
+    jQuery("#"+zone).css({display: "block"}); // Opera Fix
+   
+}
+
+
+function ajaxupdater(div,script,options){
+    jQuery('#'+div).html("<img src='../!LIONeLpix/ajaxloader.gif' />"); 
+    options.loadingText = "<img src='../!LIONeLpix/ajaxloader.gif' />";  
+    new Ajax.Updater(div,script,options);
+}
+function ajaxupdaterl(div,script,options){
+    jQuery('#'+div).html("<img src='images/ajaxloader.gif' />"); 
+    options.loadingText = "<img src='images/ajaxloader.gif' />";  
+    new Ajax.Updater(div,script,options);
+}
+
+
+function state_update(div,nk,nv){
+    var out='';
+    var sep='';
+    var found=0;
+    str=jQuery('#'+div).html();
+    var p = str.split('&amp;');
+    for (var i=0; i<p.length; i++){
+        var k = state_splice(p[i],0,'=');
+        if(k==nk){
+            out = out+sep+k+'='+nv;
+            found=1;
+        }else{
+            out = out+sep+p[i];
+        }
+        sep='&';
+    }
+    if(found==0 && nk!=''){out = out+sep+nk+'='+nv;}
+    jQuery('#'+div).html(out);
+}
+ 
+function state_splice(c,n,s)
+{
+    var p = c.split(s);
+    return p[n];
+} 
+
+function ajax_popin(css,url){
+    jQuery('#popup').html('<img src="pix/ajaxloader.gif" />');
+    var il = jQuery(css).position();
+    jQuery('#popup').css('left',il.left+1);
+    jQuery('#popup').css('top',il.top+32);
+    jQuery.get(url, function(data) {
+        jQuery('#popup').html(data);
+    });
+}
+
+function ajax_popincache(id,pos,url){
+    if(jQuery('#cac'+id).length>0){
+        jQuery('#cac'+id).show();
+        var il = jQuery('#'+pos).position();
+        jQuery('#popup').css('left',il.left+1);
+        jQuery('#popup').css('top',il.top+32);
+    }else{
+        jQuery('#popup').append('<div class=\"div_cac\" id=\"cac'+id+'\"><img src=\"pix/ajaxloader.gif\" /></div>');
+        var il = jQuery('#'+pos).position();
+        jQuery('#popup').css('left',il.left+1);
+        jQuery('#popup').css('top',il.top+32);
+        jQuery.get(url, function(data) {
+            jQuery('#cac'+id).html(data);
+        });
+    }
+}
+
+ 

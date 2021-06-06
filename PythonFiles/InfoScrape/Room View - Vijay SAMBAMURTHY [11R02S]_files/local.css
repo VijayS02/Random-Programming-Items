@@ -1,0 +1,978 @@
+
+
+
+td.qs_header{ 
+    border: 1px solid #ccc; 
+    text-align:center;   
+}
+h2.qs_header{
+    width:100%;
+    padding:0px 0px 0px 8px;    
+    margin:10px 8px 0px 0px;    
+}
+
+
+.qs_menu{
+   font-size:0.9em; 
+}
+td.content{
+   width:98%; 
+}
+del{
+   color:#888888; 
+}
+
+ins{
+   color:green;   
+}
+.N{
+    background-color:yellow;    
+}
+.R{
+    background-color:blue;    
+}
+.C{
+    background-color:green;    
+}
+.U{
+    background-color:red;    
+}
+
+.tabber{
+    background:white;
+    border:1px solid black;
+}
+.tabber .tabs li a{
+    width:100%;
+    display:block;
+}
+.tabber .tabs li{
+    color:black;
+    font-weight:bold;
+    position:relative;
+    float:left;
+    padding:3px;
+    min-width:90px;
+    border-color:black;
+    border-style:solid;
+    border-width:1px 2px 0px 2px;
+    text-align:center;   
+    margin-top:1px;  
+    margin-left:1px; 
+}
+.tabber .tabs{
+    clear:both;
+    margin-left:1px; 
+    
+}
+.tabber .loaded{
+    background-color:#dddddd;
+    clear:both;
+    padding:5px;
+}
+.chosen{
+    background-color:#dddddd;
+}
+.unchosen{
+    background-color:#aaaaaa;
+}
+
+
+.cascellu{
+    width:30px;
+    background:#aaf;
+    color:#000;
+    border:1px solid #000; 
+    text-align:center;
+    padding: 1px;
+}              
+.unapp{
+    color:#aaa;
+    border:1px solid #000;
+    text-align:center;    
+}
+.cell{
+    border:1px solid #000;    
+}
+td.qcell{
+    background:#ddd; 
+    border:1px solid #000;    
+}
+td.qcellC{
+    background:#0d0; 
+    border:1px solid #000;    
+}
+td.qcellN{
+    background:#dd0; 
+    border:1px solid #000;    
+}
+td.qcellR{
+    background:#00d; 
+    border:1px solid #000;    
+}
+td.qcellU{
+    background:#d00; 
+    border:1px solid #000;    
+}
+th.qcell{
+    background:#ddd;
+    border:1px solid #000; 
+    text-align:center;
+    min-width:30px;    
+}
+.qcell2{
+    background:#999;
+    border:1px solid #000; 
+    text-align:center;
+    min-width:30px;    
+}
+.cascell{
+    width:30px;
+    background:#00f;
+    border:1px solid #000; 
+    text-align:center;
+    font-weight:bold;
+    padding: 1px;   
+      
+}
+.setcascell{
+    min-width:30px;
+    background:#0f0;
+    border:1px solid #000; 
+    font-weight:bold;
+    text-align:center;  
+    padding: 1px;  
+}
+.setcascellu{
+    min-width:30px;
+    background:#afa;
+    border:1px solid #000; 
+    text-align:center;  
+    padding: 1px;  
+}
+.cascell2{
+    min-width:30px;
+    background:#ff0;
+    border:1px solid #000; 
+    font-weight:bold;
+    text-align:center;  
+    padding: 1px;  
+}
+.cascell2u{
+    min-width:30px;
+    background:#ffa;
+    border:1px solid #000; 
+    text-align:center;  
+    padding: 1px;  
+}
+.datacell{   
+    text-align:center;
+    font-size:20px;
+    border:1px solid #000;
+}
+
+.prop{
+    left:2px;
+    top:50px;
+    width:100%;
+    clear:both;
+}
+
+.prop .flip{
+    display:block-inline;    
+}
+.cal .flip{
+    display:none;
+}
+
+.cal_draggable{ 
+    border:2px solid #0000ff;
+    min-width:15px;  
+    font-size:x-small;  
+}
+.cal_draggable_w{ 
+    border:2px solid #0000ff;
+    min-width:15px;  
+    font-size:x-small;  
+}
+.cal_draggable_p{
+    border:2px solid #0000ff;    
+    min-width:15px;
+    width:15px;
+    font-size:x-small;
+}
+
+.cal_dropactive{
+    background-color:#ff00ff;
+}                     
+.cal_drophover{
+    background-color:#ff0000;
+}                     
+.tt_droppable{ 
+    border:2px solid #0000ff;
+    background-color:#cccccc; 
+    font-size:x-small;  
+}
+.tt_draggable{ 
+    border:2px solid #0000ff;
+    font-size:x-small;  
+}
+.tt_clash{ 
+    background-color:red;
+    color:white;
+    font-weight: bold;
+}
+.tt_draggable_p{
+    border:2px solid #0000ff;
+    width:75px;
+    font-size:x-small;
+}
+
+.tt_dropactive{
+    border:2px solid blue;
+    background-color:#ff00ff;
+}                     
+.tt_drophover{
+    border:2px solid black;
+    background-color:#00ffff;
+}                     
+
+.dist0,.dist1,.dist2{
+     background-color:#aaeeee;
+}
+.dist10{
+    background-color:#ffffff;    
+}
+.cal img{
+    border:0px;    
+}
+.cal_month{
+    min-width:5px;
+    background:#ffffff;
+    border-right:10px solid #000044; 
+    font-size:small;        
+}
+.cal_grid{
+    border:1px solid #dddddd;
+    font-size:small;
+}
+
+.cal_cell{
+    background:#aaaaaa;
+    border:2px solid #000080;
+    font-size:x-small;    
+}
+.cal_half1{
+    background:yellow;
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_half2{
+    background:orange;
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_wk{
+    background:#aaffff;
+    border:3px solid #000080;
+    font-size:small;    
+}.cal_arr{
+    background:#aaffaa;
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_wk0{
+    
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_wk1{
+    
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_wk2{
+   
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_wend{
+   
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_nott{
+   
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_cpd{
+    border:2px solid #000080;
+    font-size:small;    
+}
+.cal_hday{
+    border:2px solid #000080;
+    font-size:small;    
+}
+
+.parent table{
+    border:1px solid black;
+    text-align:center;  
+}
+.parent td{
+    border:1px solid black;
+    text-align:center;
+    min-width:100px;  
+}
+
+.tweet{
+    font-size:x-small;    
+}
+.grponly{
+    color:#bbbbbb;
+    font-size:small;
+    font-style:italic;   
+}
+
+.anote{
+    width:100px;
+    font-size:11px;
+    text-align:center;
+}
+.bnote{
+    width:65px;
+    font-size:11px;
+    text-align:center;
+}
+.award{
+    text-align:center;
+    margin-left:0px;
+    float:left;
+}
+.award1{
+    text-align:center;
+    margin-left:0px;
+    float:left;
+}
+.award32{
+    text-align:center;
+    margin-left:0px;
+    width:32px;
+    float:left;
+}
+.award18{
+    text-align:center;
+    margin-left:0px;
+    width:20px;
+    float:left;
+}
+#awardtext{
+    clear:both;
+    padding:0px;
+    margin-top:-10px;
+    z-index:10;
+}
+#awardblock{
+    width:200px;
+    clear:both;
+}
+#tooltip{
+    position:absolute;
+    border:2px solid #333;
+    background:#ff0000;
+    padding:2px 5px;
+    color:#333;
+    display:none;
+    }
+    
+.jqmWindow {
+    display: none;
+    
+    position: fixed;
+    top: 2%;
+    left: 10%;
+    
+    margin-left: -20px;
+    width: 750px;
+    
+    background-color: #EEE;
+    color: #333;
+    border: 1px solid black;
+    padding: 6px;
+}
+
+.red{
+    background-color:#f00000;
+    color:white;
+    text-align:center;
+}
+.amber{
+    background-color:#FFBF00;
+    text-align:center;
+}
+.gray{
+    background-color:#cccccc;
+    text-align:center;
+}
+.black{
+    background-color:#000000;
+    color:white; 
+    text-align:center;
+}
+.green{
+    background-color:#00a000;
+    color:white; 
+    text-align:center;
+}
+.today{
+   background-color:blue;     
+   color:yellow;
+   font-weight:bold;     
+}
+.smallcal{
+    font-size:0.8em;    
+}
+
+.smallcaldate{
+    background-color:#363685;
+    color:white; 
+    font-size:0.8em;    
+}
+
+.smallcalevent0{
+    background-color:#ffffff;
+    color:#005c00;     
+    font-size:0.7em;    
+}
+.smallcalevent1{
+    background-color:#ffffff;
+    color:#0000aa;     
+    font-size:0.7em;    
+}
+.smallcalevent2{
+    background-color:#ffffff;
+    color:#000088;     
+    font-size:0.7em;    
+}
+.smallcalevent3{
+    background-color:#ffffff;
+    color:#000066;     
+    font-size:0.7em;
+    font-weight:bold;    
+}
+.smallcalevent4{
+    background-color:#ffffff;
+    color:#000066;     
+    font-size:0.7em;
+    font-weight:bold;    
+}
+.jqmOverlay { background-color: #000; }
+
+/* Fixed posistioning emulation for IE6
+     Star selector used to hide definition from browsers other than IE6
+     For valid CSS, use a conditional include instead */
+* html .jqmWindow {
+     position: absolute;
+     top: expression((document.documentElement.scrollTop || document.body.scrollTop) + Math.round(7 * (document.documentElement.offsetHeight || document.body.clientHeight) / 100) + 'px');
+}
+
+
+               
+#viewlist{
+    width:100%;
+    overflow:scroll;
+} 
+.viewlist img{
+    margin:1px;
+}
+.plain{
+    background:transparent;
+}
+
+img.hoff{
+   display:none;
+}
+img.hon{
+    display:block;
+}
+.hoff{
+    background:#ffffff;
+}
+
+.hon{
+   background-color:#aaccaa;
+}
+.odd{
+   background-color:#E7F0FE;
+}
+.even{
+   background-color:#F9FDFF;
+}
+.oddo{
+    background-color:#ccccff;
+    color:black;
+}
+.eveno{
+    background-color:#ccccff;
+    color:black; 
+}
+.leftweb{
+    background: #0033ff;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    width:18%;
+    border-style:double;
+    
+}
+.rightweb{
+    background: #eeeeFF;
+    float: right;
+    margin: 2px;
+    padding: 2px;
+    width:78%;
+    border-style:single;
+    
+}
+
+.numpad{
+    font-family: Tahoma; 
+    font-size: 16pt; 
+    text-transform: uppercase; 
+    width: 30px; 
+    height: 36px;
+}
+.numpadT{
+    font-family: Tahoma; 
+    font-size: 16pt; 
+    text-transform: uppercase;
+    text-align: right; 
+    width: 90px; 
+    height: 36px;
+}
+
+/****
+******  Theme module
+******/ 
+
+.headercontainer{
+    position:absolute;
+    background-color : #ccddff;
+    width:100%;
+    height:110px;
+    top:0px;
+    left:0px;
+    
+}
+
+.headercontainer .logininfo{
+    position:absolute;
+    text-align:right;
+    right:10px;
+    top:55px;
+    color:#774411;
+}
+#whohead{
+    position:absolute;
+    text-align:right;
+    font-size: 22px;
+    right:10px;
+    top:22px;
+    color:#2222ee;
+    letter-spacing: -0.05em;
+}
+#pagehead{
+    position:absolute;
+    text-align:right;
+    font-size:48px;
+    left:90px;
+    top:60px;
+    color:#0000cc;
+    font-weight: bold;
+    letter-spacing: -0.05em;
+}
+#logohead{
+    position:absolute;
+    left:10px;
+    top:-1px;
+    width:120px;
+    color:#774411;
+    z-index:1;
+}
+#sitehead{
+    position:relative;
+    color:white;
+    text-align:left;
+    font-weight:bolder;
+    left:70px;
+    top:0px;
+    letter-spacing: -0.05em;
+    width:100%;
+}
+
+#TipLayer table {
+    padding: 0; margin: 1px;
+} 
+#TipLayer td, 
+#TipLayer tr, 
+#TipLayer th, 
+#TipLayer thead,
+#TipLayer tbody{
+    padding: 0; margin: 0; 
+}
+ 
+
+/****
+******  Assessment module
+******/
+
+
+.menu{
+    width:100%;
+    height:25px;
+}
+                     
+.smallblock{
+    background: #eeeeFF;
+    float: left;
+    margin: 5px;
+    padding: 5px;    
+    width:200px;  
+}    
+.quarterblock{
+    background: #eeeeFF;
+    float: left;
+    margin: 5px;
+    padding: 5px;    
+    width:20%;
+}
+.smallblockdouble{
+    background: #eeeeFF;
+    float: left;
+    margin: 5px;
+    padding: 5px; 
+    width:30%;   
+    border-style:double;
+}.medblockdouble{
+    background: #eeeeFF;
+    float: left;
+    margin: 5px;
+    padding: 5px;  
+    width:50%; 
+    border-style:double;
+}.bigblockdouble{
+    background: #eeeeFF;
+    float: left;
+    margin: 5px;
+    padding: 5px; 
+    width:90%;   
+    border-style:double;
+}
+
+.minblock{
+    background: #eeeeFF;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    width:10px; 
+}
+                   
+
+.floatblock{
+	background: #eeeeFF;
+	float: left;
+	margin: 5px;
+	padding: 5px;	
+}                           
+
+.halfblock{
+    background: #eeeeFF;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    width:45%;
+    
+}
+.halfblocksingle{
+    background: #eeeeFF;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    width:45%;
+    border-style: solid;
+    border-width:1px;
+    
+}
+.halfblockdouble{
+    background: #eeeeFF;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    width:45%;
+    border-style:double;
+    
+}
+.blockconstrain{
+    float: left;
+    clear:both;
+    width:100%;
+    margin-right: 20px;
+    
+}   
+.halfblockright{
+    background: #eeeeFF;
+    float: right;
+    margin: 2px;
+    padding: 2px;
+    width:45%;
+    text-align: right;
+}
+.blockright25{
+    background: #eeeeFF;
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    width:24%;
+    text-align: right;
+}
+.blockleft75{
+    background: #eeeeFF;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+.fullblock{
+	float: left;
+	clear:both;
+	margin: 2px;
+	padding: 2px;
+	width:95%;
+	
+}   
+.fullstrip{
+    clear:both;
+    color:#000060;
+    width:95%;
+    text-align:center;
+}
+
+.fullstripsingle{
+    float: left;
+    clear:both;
+    margin: 2px 2px 2px 2px;
+    padding: 2px;
+    width:90%;
+    text-align:center;
+    background: #eeeeFF;
+    border-style:solid;
+    border-width:1px;
+}
+
+.leftstrip{
+	clear:both;
+	color:#000060;
+	text-align:left;
+}
+.centreblock{
+	clear:both;
+	color:#000066;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
+.totalblock{
+	clear:both;
+	background:#BBBBBB;
+	width:100%;
+}
+.instruction{
+    color:#000000;
+    background-color: #ffefef;
+}
+                
+
+/****
+******  Local to LIONeL
+******/
+table.highlightTable tr.highlight td
+{
+    background: #FFFF99;
+}
+
+table.highlightTable tr.highlightAlt td
+
+{
+    background: #FFFF99;
+}
+
+.headerrow{
+	background-color:#F1F1F1;
+}
+.rowodd {
+	background-color:#EEEEEE; /* EEEEEE   */
+}
+.roweven {
+	background-color:#DDDDDD;
+}
+.cellhighlight{
+	background-color:#FF9999;
+} 
+
+.tipArea {
+ position: fixed;
+ top: 1em;
+ left: 80%;
+ width: 20%;
+}
+/********
+DIARY
+*********/
+.weekone1 {
+	background-color:#88FFCC;
+}
+.weekone2 {
+	background-color:#AAFFCC;
+}
+.weektwo1 {
+	background-color:#66FFFF;
+}
+.weektwo2 {
+	background-color:#00FFFF;
+}
+
+.weekone1strip {
+	background-color:#88FFCC;
+	height:2px;
+}
+.weektwo1strip {
+	background-color:#AAFFCC;
+	height:2 px;
+}
+.weekone2strip {
+	background-color:#66FFFF;
+	height:2 px;	
+}
+.weektwo2strip {
+	background-color:#00FFFF;
+	height:2 px;	
+}
+
+
+ 
+.holiday {
+	background-color:#FFFF00;
+}
+
+.holidaystrip {
+	background-color:#FFFF00;
+	height:2 px;
+}
+
+.weekend{
+	background-color:#FFFF99;
+}
+
+
+.weekendstrip{
+	background-color:#FFFF99;
+	height:2 px;
+}
+.disrupt{
+	background-color:#FF99FF;
+}
+
+.disruptstrip{
+	background-color:#FFCCFF;
+	height:2 px;
+}
+
+
+.viewlist th {
+    background-color: #FFFFFF;
+}
+
+#tooltip {
+    position: absolute;
+    z-index: 3000;
+    border: 1px solid #111;
+    background-color: #eee;
+    padding: 5px;
+    opacity: 0.85;
+    width:200px;
+}
+#tooltip h3, #tooltip div { margin: 0; }
+
+
+
+ 
+/* Easy Slider */
+    #prevBtn{
+        position:relative;
+        float:left;
+        top:-122px;
+       
+    }
+    #nextBtn{
+        position:relative;
+        float:right;
+        top:-122px;
+        
+    }
+    #pauseBtn{
+        position:relative;
+        float:right;
+        top:-28px; 
+        right:-20px; 
+       
+    }
+    
+    #slidercont{
+        width:100%;
+        border:2px solid #ccc; 
+        margin-bottom:2px;
+        height:128px;    
+        
+    }
+    #slider{
+       margin:auto; 
+    }
+    #slider ul, #slider li{
+        margin:0;
+        padding:2px 0px 2px 0px;
+        list-style:none;
+        }
+    #slider li{ 
+        /* 
+            define width and height of list item (slide)
+            entire slider area will adjust according to the parameters provided here
+        */ 
+        width:600px;
+        height:124px;
+        overflow:hidden; 
+    }    
+    
+/* // Easy Slider */
+.btn_priority1{
+    background:#ecc;
+}
+.btn_today1{
+    background:#aea;
+}
+.btn_norm1{
+    color:#343;
+}
+.btn_priority2{
+    background:#daa;
+}
+.btn_today2{
+    background:#ada;
+}
+.btn_norm2{
+    color:#393;
+}
+.scoframe {
+width: 100%;
+height: 200%;
+}

@@ -1,0 +1,8 @@
+
+.viewlist img { display: none; }
+
+#pagehead, #sitehead { display: none; }
+
+#dropcont, #logohead, #nav, #headermenuwrap, .menui, .logininfo, #bignavwrap { display:none; } 
+.navbar, #footer { display:none; }
+       

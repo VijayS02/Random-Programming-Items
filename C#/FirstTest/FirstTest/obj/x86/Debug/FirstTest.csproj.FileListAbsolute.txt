@@ -1,0 +1,12 @@
+D:\C#\FirstTest\FirstTest\bin\Debug\FirstTest.exe
+D:\C#\FirstTest\FirstTest\bin\Debug\FirstTest.pdb
+D:\C#\FirstTest\FirstTest\bin\Debug\mscorlib.dll
+D:\C#\FirstTest\FirstTest\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\C#\FirstTest\FirstTest\bin\Debug\normidna.nlp
+D:\C#\FirstTest\FirstTest\bin\Debug\normnfc.nlp
+D:\C#\FirstTest\FirstTest\bin\Debug\normnfd.nlp
+D:\C#\FirstTest\FirstTest\bin\Debug\normnfkc.nlp
+D:\C#\FirstTest\FirstTest\bin\Debug\normnfkd.nlp
+D:\C#\FirstTest\FirstTest\obj\x86\Debug\FirstTest.csprojResolveAssemblyReference.cache
+D:\C#\FirstTest\FirstTest\obj\x86\Debug\FirstTest.exe
+D:\C#\FirstTest\FirstTest\obj\x86\Debug\FirstTest.pdb
